@@ -1,3 +1,3 @@
 fn main() {
-    println!("my first rust program");
+    println!("my second rust program");
 }
